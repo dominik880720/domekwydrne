@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dominik880720.github.io/domekwydrne/sitemap.xml

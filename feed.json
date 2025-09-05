@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "DomekWydrne",
+    "description": "",
+    "home_page_url": "https://dominik880720.github.io/domekwydrne",
+    "feed_url": "https://dominik880720.github.io/domekwydrne/feed.json",
+    "user_comment": "",
+    "icon": "https://dominik880720.github.io/domekwydrne/media/website/Logo-2.png",
+    "author": {
+        "name": "Dom"
+    },
+    "items": [
+    ]
+}
